@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Cyber security,Various types of algorithm**
 
-- 🌱 I’m currently learning **Cyber security,Data science,Machine learning,python,Framework**
+- 🌱 I’m currently learning **Cyber security,Data science,Machine learning,python, Diffrent types of Framework**
 
 - 💬 Ask me about *C++,C#,java,php,javascript,css,html,**
 
